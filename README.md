@@ -1,6 +1,5 @@
-# Visao_geral_sobre_seguran-a_em_IoT
+# Análise de Vulnerabilidades em Servidor Web ESP32
 
-# Relatório Técnico: Análise de Vulnerabilidades em Servidor Web ESP32  
 **Objeto de Análise:** Código fonte e implementação de "ESP32 Web Server" (Referência: Random Nerd Tutorials).  
 **Data:** 10 de Dezembro de 2025.  
 **Contexto:** Internet das Coisas (IoT) e Sistemas Embarcados.
